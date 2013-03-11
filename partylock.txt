@@ -25,3 +25,23 @@
 // Nidhoggr's Instance ===========
 1@nyd	mapflag	partylock
 2@nyd	mapflag	partylock
+// Misty Forest Labyrinth ===========
+1@mist	mapflag	partylock
+// Octopus Cave ===========
+1@cash	mapflag	partylock
+// Drain ===========
+1@pump	mapflag	partylock
+2@pump	mapflag	partylock
+// Somatology Laboratory ===========
+1@lhz	mapflag	partylock
+// Bangungot Hospital F2 ===========
+1@ma_h	mapflag	partylock
+
+// Buwaya Cave ===========
+1@ma_c	mapflag	partylock
+
+// Bakonawa Hideout ===========
+1@ma_b	mapflag	partylock
+
+// Inside Eclage ===========
+1@ecl	mapflag	partylock
